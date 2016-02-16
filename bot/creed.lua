@@ -220,7 +220,7 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {152590594,175579471},--Sudo users
+    sudo_users = {152590594,180873939,180878160},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},

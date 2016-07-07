@@ -1,4 +1,5 @@
-# [Creed BoT](https://telegram.me/creedsteam) 
+acid bot
+
 **An Edited Bot Based On [Tele seed](http://github.com/SeedTeam/teleseed) Plugins and Added new and Usefull Plugins to it 
 # Features
 
